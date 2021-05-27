@@ -1,0 +1,9 @@
+/home/meghna/Graphics2/Hello-World/source/CMakeFiles/rebuild_cache.dir
+/home/meghna/Graphics2/Hello-World/source/CMakeFiles/Hello-World.dir
+/home/meghna/Graphics2/Hello-World/source/CMakeFiles/edit_cache.dir
+/home/meghna/Graphics2/Hello-World/source/CMakeFiles/glad.dir
+/home/meghna/Graphics2/Hello-World/source/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/meghna/Graphics2/Hello-World/source/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/meghna/Graphics2/Hello-World/source/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/meghna/Graphics2/Hello-World/source/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/meghna/Graphics2/Hello-World/source/libraries/glfw/src/CMakeFiles/edit_cache.dir
